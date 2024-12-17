@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/huanhou/my_products.git/static/css/main.09f97e3a.css",
+    "main.js": "/huanhou/my_products.git/static/js/main.74b20d5d.js",
+    "index.html": "/huanhou/my_products.git/index.html",
+    "main.09f97e3a.css.map": "/huanhou/my_products.git/static/css/main.09f97e3a.css.map",
+    "main.74b20d5d.js.map": "/huanhou/my_products.git/static/js/main.74b20d5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09f97e3a.css",
+    "static/js/main.74b20d5d.js"
+  ]
+}
